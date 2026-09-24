@@ -1656,3 +1656,77 @@ strong {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
+
+
+/* Readability fixes requested after live review. */
+.section-parchment .text-block p {
+  color: #17130f;
+}
+
+.section-parchment .method-strip span {
+  background: rgba(32, 28, 24, 0.045);
+  color: #1f1a15;
+}
+
+.section-parchment .method-strip small {
+  color: #574b3e;
+}
+
+.section-parchment .forge-panel .equipment-copy {
+  color: var(--bone-50);
+}
+
+/* Art pass */
+.hero {
+  background-image:
+    linear-gradient(105deg, rgba(9,11,12,.97) 5%, rgba(15,17,19,.85) 50%, rgba(23,20,24,.72) 100%),
+    url("../images/hero-academy-forge.svg");
+  background-size: cover;
+  background-position: center;
+}
+
+.page-hero {
+  background-image:
+    linear-gradient(135deg, rgba(18,21,23,.97), rgba(11,13,14,.84)),
+    url("../images/academy-gate-background.svg");
+  background-size: cover;
+  background-position: center;
+}
+
+.training-art-band {
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(90deg, rgba(9,11,12,.94), rgba(9,11,12,.76)),
+    url("../images/training-yard.svg") center / cover no-repeat;
+}
+
+.training-art-band::before {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 55%, rgba(9,11,12,.7));
+  content: "";
+  pointer-events: none;
+}
+
+.training-art-band > .container {
+  position: relative;
+  z-index: 1;
+}
+
+.start-art-panel {
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(145deg, rgba(23,25,27,.93), rgba(15,17,19,.9)),
+    url("../images/open-gate-path.svg") center / cover no-repeat;
+}
+
+.art-medallion {
+  position: absolute;
+  right: clamp(1rem, 5vw, 4rem);
+  bottom: clamp(1rem, 4vw, 3rem);
+  width: min(22vw, 10rem);
+  opacity: .22;
+  pointer-events: none;
+}
