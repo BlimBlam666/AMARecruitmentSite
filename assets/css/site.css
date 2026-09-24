@@ -1620,3 +1620,39 @@ strong {
     animation-iteration-count: 1 !important;
   }
 }
+
+
+/* Parchment sections can contain dark inset panels. Restore light panel text
+   instead of inheriting the parchment section's dark reading color. */
+.section-parchment .forge-panel,
+.section-parchment .role-card {
+  color: var(--text);
+}
+
+.section-parchment .forge-panel h3,
+.section-parchment .forge-panel h4,
+.section-parchment .forge-panel strong,
+.section-parchment .role-card h3,
+.section-parchment .role-card h4,
+.section-parchment .role-card strong {
+  color: var(--bone-50);
+}
+
+.section-parchment .forge-panel p,
+.section-parchment .forge-panel span,
+.section-parchment .role-card p {
+  color: var(--muted);
+}
+
+.section-parchment .forge-panel .eyebrow,
+.section-parchment .role-card .role-label {
+  color: var(--brass-300);
+}
+
+@media (min-width: 62rem) {
+  /* The method panel lives inside one half of a split layout; four columns
+     are too narrow there, so keep the four steps as a readable 2x2 grid. */
+  .forge-panel .process-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
