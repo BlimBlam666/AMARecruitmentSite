@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Academy forge hall</title>
+<desc id="d">Stylized medieval academy hall with a glowing forge, training silhouettes, banners, and an open book and sword emblem.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#121518"/><stop offset="1" stop-color="#211822"/></linearGradient>
+  <radialGradient id="fire"><stop stop-color="#f3d79b" stop-opacity=".9"/><stop offset=".35" stop-color="#b88a42" stop-opacity=".6"/><stop offset="1" stop-color="#b88a42" stop-opacity="0"/></radialGradient>
+  <linearGradient id="stone" x1="0" x2="1"><stop stop-color="#2a2e33"/><stop offset=".5" stop-color="#15181b"/><stop offset="1" stop-color="#2a2e33"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<circle cx="1260" cy="520" r="300" fill="url(#fire)" filter="url(#glow)"/>
+<path d="M0 690h1600v210H0z" fill="#0b0d0f"/>
+<path d="M1120 155h350v570h-350z" fill="url(#stone)" opacity=".8"/>
+<path d="M1190 210h210v440h-210z" fill="#0a0c0e"/>
+<path d="M1190 210q105-145 210 0" fill="#0a0c0e"/>
+<path d="M1220 250h150v360h-150z" fill="#241d18" opacity=".65"/>
+<path d="M0 150h220v590H0zM300 110h120v630H300zM510 160h100v580H510z" fill="#181c20"/>
+<path d="M0 740h1600" stroke="#6e5022" stroke-opacity=".6" stroke-width="4"/>
+<path d="M90 0v430M360 0v380M560 0v400" stroke="#4d5358" stroke-width="16" opacity=".4"/>
+<path d="M210 100l120 55-120 55zM420 80l100 50-100 50z" fill="#77577f" opacity=".55"/>
+<path d="M180 530q60-90 120 0l-18 130h-84zM390 520q55-85 110 0l-16 140h-78zM610 545q50-80 100 0l-14 115h-72z" fill="#0a0c0e"/>
+<path d="M228 470l70 100M246 470l-65 110M440 470l50 95M452 468l-54 100M658 492l40 70M670 492l-44 76" stroke="#c2c6c8" stroke-width="10" stroke-linecap="round"/>
+<path d="M1060 615h440" stroke="#b88a42" stroke-opacity=".5" stroke-width="5"/>
+<g transform="translate(925 220)" opacity=".5">
+  <path d="M0 0h250v300H0z" fill="#111315" stroke="#b88a42" stroke-width="5"/>
+  <path d="M125 44v172" stroke="#d8b677" stroke-width="12" stroke-linecap="round"/>
+  <path d="M85 87h80" stroke="#d8b677" stroke-width="10" stroke-linecap="round"/>
+  <path d="M54 210q42-38 71 0q29-38 71 0v44q-42-24-71 4q-29-28-71-4z" fill="none" stroke="#f4ecdc" stroke-width="7"/>
+</g>
+<circle cx="1260" cy="520" r="190" fill="url(#fire)" opacity=".55"/>
+<path d="M1120 675q140-70 280 0" stroke="#d8b677" stroke-width="4" stroke-opacity=".3"/>
+<path d="M0 0h1600v900H0z" fill="none" stroke="#b88a42" stroke-opacity=".12" stroke-width="8"/>
+</svg>
