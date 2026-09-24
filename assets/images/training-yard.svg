@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" role="img" aria-labelledby="t d">
+<title id="t">Academy training yard</title>
+<desc id="d">Stylized training yard with sparring silhouettes, wooden targets, banners, and mountains.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#26212b"/><stop offset="1" stop-color="#111315"/></linearGradient>
+  <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1f2426"/><stop offset="1" stop-color="#0a0c0d"/></linearGradient>
+</defs>
+<rect width="1600" height="800" fill="url(#sky)"/>
+<path d="M0 390l220-150 180 130 230-190 280 230 220-160 260 150 210-120 100 140v190H0z" fill="#30343a" opacity=".38"/>
+<path d="M0 500h1600v300H0z" fill="url(#ground)"/>
+<path d="M180 270v310M560 230v350M1000 250v330M1420 210v370" stroke="#6b5131" stroke-width="14"/>
+<path d="M180 280l110 45-110 45zM560 245l105 42-105 42zM1000 265l115 46-115 46zM1420 225l110 45-110 45z" fill="#77577f" opacity=".7"/>
+<g fill="#0a0c0d">
+  <path d="M410 470q48-72 96 0l-14 126h-68z"/>
+  <path d="M650 455q50-78 100 0l-15 142h-70z"/>
+  <path d="M850 468q46-70 92 0l-12 128h-66z"/>
+</g>
+<g stroke="#d9dde0" stroke-width="10" stroke-linecap="round">
+  <path d="M448 430l85 88M470 430l-80 95"/>
+  <path d="M695 415l76 95M715 416l-78 88"/>
+  <path d="M890 430l64 86M904 430l-70 88"/>
+</g>
+<g>
+  <circle cx="1210" cy="450" r="80" fill="#5b4934" stroke="#b88a42" stroke-width="8"/>
+  <circle cx="1210" cy="450" r="48" fill="none" stroke="#d8b677" stroke-width="6"/>
+  <circle cx="1210" cy="450" r="18" fill="#77577f"/>
+  <path d="M1210 530v120" stroke="#6b5131" stroke-width="16"/>
+</g>
+<path d="M0 650h1600" stroke="#b88a42" stroke-opacity=".25" stroke-width="4"/>
+</svg>
