@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" role="img" aria-labelledby="t d">
+<title id="t">Academy gate background</title>
+<desc id="d">Stylized stone gate with banners and distant warm light.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#121518"/><stop offset="1" stop-color="#211822"/></linearGradient>
+  <radialGradient id="light"><stop stop-color="#f4d69d" stop-opacity=".75"/><stop offset="1" stop-color="#b88a42" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="700" fill="url(#sky)"/>
+<circle cx="1250" cy="320" r="260" fill="url(#light)"/>
+<path d="M960 100h420v600H960z" fill="#1d2125"/>
+<path d="M1030 210h280v490h-280z" fill="#090b0c"/>
+<path d="M1030 210q140-180 280 0" fill="#090b0c"/>
+<path d="M0 470h1600v230H0z" fill="#0c0f11"/>
+<path d="M1120 120v220M1320 120v220" stroke="#6e5022" stroke-width="8"/>
+<path d="M1100 150l70 40-70 40zM1300 150l70 40-70 40z" fill="#77577f" opacity=".75"/>
+<path d="M1160 700l75-310h50l95 310z" fill="#b88a42" opacity=".12"/>
+<g opacity=".18">
+  <path d="M80 60h300v510H80zM430 100h230v470H430zM720 60h180v510H720z" fill="#2a2f34"/>
+  <path d="M120 120h220M470 160h150M750 120h120" stroke="#b88a42" stroke-width="6"/>
+</g>
+</svg>
