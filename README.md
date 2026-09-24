@@ -6,35 +6,30 @@ Public recruitment and general-information website for the Academy of Mercenary 
 
 ## Project status
 
-**Foundation complete — ready for public page build**
+**Public v1 forged — ready for GitHub Pages publication**
 
-The blueprint is approved and the shared technical foundation is in place. The repository now has four page shells, a mobile-first Academy design system, accessible responsive navigation, shared header/footer, a development favicon placeholder, a custom 404 page, and automated structural validation.
+The full four-page recruitment site is built:
 
-The real public-facing homepage content is the next implementation phase.
+1. **Home** — public explanation, Academy identity, Fighter Track overview, training method, values, and primary recruitment calls to action.
+2. **About** — purpose, Academy Standard, Cadets and Preceptors, Preceptor's Creed, and authority boundaries.
+3. **Training** — F100–F500 Fighter Track, representative courses, lesson method, Dragonspine Civic Arms, and Graduate Trial gates.
+4. **Start Here** — newcomer fit, first-visit flow, what to bring, safety, local Obsidian Gate connection, and FAQ.
 
-## Purpose
+## Design
 
-This site is the Academy's public front gate. It should help a newcomer quickly understand:
+The site is intentionally:
 
-- what the Academy of Mercenary Arts is,
-- what people learn here,
-- what the culture values,
-- what a first experience looks like,
-- how the Academy relates to Amtgard and local field authority,
-- and how to take the next step.
+- mobile-first,
+- dependency-light,
+- accessible,
+- static and fast,
+- usable without JavaScript except for enhanced mobile navigation,
+- medieval in identity without becoming a game HUD,
+- and clear about the Academy's relationship to Amtgard and proper field authority.
 
-The site is **not** intended to replace the Academy Command Hall, the full course library, Amtgard's Rules of Play, Dragonspine governance, local reeves, park officers, or other official authorities.
+The current CSS-built shield/book/sword treatment and favicon are development identity marks. Replace them with final approved Academy heraldry when the production crest asset is ready.
 
-## Site map
-
-1. **Home** — recruitment story and primary first impression
-2. **About** — mission, values, Cadets, Preceptors, and authority boundaries
-3. **Training** — the Academy training path and representative courses
-4. **Start Here** — first-day expectations and verified next steps
-
-Supporting links and social channels belong in the footer or contextual calls to action rather than becoming additional top-level pages.
-
-## Development
+## Local development
 
 Run the structural check:
 
@@ -48,16 +43,39 @@ Preview locally:
 python -m http.server 8080
 ```
 
-Then visit `http://localhost:8080/`.
+Then visit:
+
+```
+http://localhost:8080/
+```
+
+## GitHub Pages publication
+
+This is a plain static site and can publish directly from the repository root.
+
+In GitHub:
+
+1. Open **Settings → Pages**.
+2. Under **Build and deployment**, choose **Deploy from a branch**.
+3. Select **main** and **/(root)**.
+4. Save.
+
+Expected public URL:
+
+```
+https://blimblam666.github.io/AMARecruitmentSite/
+```
 
 ## Project documents
 
 - [Site Blueprint](docs/SITE_BLUEPRINT.md)
 - [Build-Ready Foundation](docs/BUILD_READY_FOUNDATION.md)
 
-## Media status
+## Pre-launch media upgrades
 
-The current favicon and `AMA` shield mark are development placeholders only. Final Academy heraldry and approved training photography must replace them before public launch.
+The site can publish now, but the strongest later visual upgrade will be replacing the CSS hero emblem with the final Academy crest and adding approved real Academy/Amtgard training photographs.
+
+Do not use unverified social/contact links or stale weekly schedules merely to fill space.
 
 ## Authority standard
 
