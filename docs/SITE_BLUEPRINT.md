@@ -165,7 +165,7 @@ One excellent real photograph of Academy/Amtgard fighters actively training. Pre
 **Trust strip:**  
 **Safety • Honor • Control • Growth**
 
-Design note: The newcomer explanation must visually precede or accompany the motto. “Building Warlords” should inspire curiosity, not be required knowledge.
+Design note: The newcomer explanation must visually precede or accompany the motto. “Learn Together. Play Better.” should support the invitation to new and experienced players.
 
 ---
 
