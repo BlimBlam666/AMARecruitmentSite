@@ -1,6 +1,6 @@
 # Build-Ready Foundation
 
-The planning phase is complete and the repository now contains the shared technical foundation for the public Academy website.
+The planning phase is complete and the repository now contains the shared technical foundation for the public Guild website.
 
 ## What exists now
 
@@ -12,7 +12,7 @@ The planning phase is complete and the repository now contains the shared techni
 - Shared responsive header and footer.
 - Accessible mobile navigation with Escape-key support and ARIA state.
 - Skip links and visible keyboard focus.
-- Academy design tokens for obsidian, parchment/bone, brass, thistle, and iron.
+- Guild design tokens for obsidian, parchment/bone, brass, thistle, and iron.
 - Mobile-first typography and spacing.
 - Reduced-motion support.
 - Development favicon/brand placeholder clearly marked as non-canonical.
@@ -26,7 +26,7 @@ The real public site content has **not** been built into the shells. That is the
 
 The following remain intentionally pending:
 
-1. Final Academy crest / favicon.
+1. Final Guild crest / favicon.
 2. Approved real training photographs.
 3. Verified social links.
 4. Verified Amtgard / Rules / Dragonspine / Obsidian Gate links.
@@ -48,7 +48,7 @@ Build the approved homepage narrative in this order:
 3. Training Path
 4. What Training Feels Like
 5. The Fighter We Are Trying to Build
-6. Academy / Amtgard Relationship
+6. Guild / Amtgard Relationship
 7. Final recruitment CTA
 
 The homepage should be fully useful with temporary media placeholders before real photographs are substituted.
@@ -58,8 +58,8 @@ The homepage should be fully useful with temporary media placeholders before rea
 Do not add a feature merely because it is easy to code.
 
 Every public element must help a newcomer:
-- understand the Academy,
-- trust the Academy,
+- understand the Guild,
+- trust the Guild,
 - see the training path,
 - or take the next step.
 
@@ -79,3 +79,4 @@ http://localhost:8080/
 ```
 
 The structural checker should pass before each merge.
+

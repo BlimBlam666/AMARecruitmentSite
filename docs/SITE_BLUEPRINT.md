@@ -3,13 +3,13 @@
 **Repository:** `BlimBlam666/AMARecruitmentSite`  
 **Phase:** Design blueprint — no production site code yet  
 **Primary purpose:** Recruitment + general public information  
-**Working principle:** The site is the Academy's **front gate**, not its command center.
+**Working principle:** The site is the Guild's **front gate**, not its command center.
 
 ---
 
 ## 1. Product Definition
 
-The Academy of Mercenary Arts recruitment site should answer five newcomer questions quickly:
+The Obsidian Gate Guild of Mercenaries recruitment site should answer five newcomer questions quickly:
 
 1. **What is this?**
 2. **Is this for someone like me?**
@@ -17,27 +17,27 @@ The Academy of Mercenary Arts recruitment site should answer five newcomer quest
 4. **Is it safe, organized, and welcoming?**
 5. **How do I start?**
 
-A visitor should understand the Academy within roughly 30 seconds and reach a useful next step without needing to understand internal Academy terminology first.
+A visitor should understand the Guild within roughly 30 seconds and reach a useful next step without needing to understand internal Guild terminology first.
 
 ### Primary conversion
 
 **Start Here / Come Train With Us**
 
-The site should move an interested visitor toward attending, contacting the Academy, or following the current official information source for the next training opportunity.
+The site should move an interested visitor toward attending, contacting the Guild, or following the current official information source for the next training opportunity.
 
 ### Secondary conversions
 
 - Explore the training path.
-- Learn how the Academy relates to Amtgard and Dragonspine.
-- Follow Academy social channels.
-- View Academy videos/photos.
+- Learn how the Guild relates to Amtgard and Dragonspine.
+- Follow Guild social channels.
+- View Guild videos/photos.
 - Reach official Amtgard/Dragonspine/local-park resources.
 
 ### Explicit non-goals
 
 The public site should **not** become:
 
-- the Academy Command Hall,
+- the Guild Command Hall,
 - an internal operations dashboard,
 - a full searchable course database,
 - a replacement for Amtgard's Rules of Play,
@@ -54,7 +54,7 @@ The public site should **not** become:
 
 ### Primary audience — Curious newcomer
 
-Someone sees the Academy at a park, convention, social post, video, QR code, or through a friend. They may know nothing about Amtgard or LARP.
+Someone sees the Guild at a park, convention, social post, video, QR code, or through a friend. They may know nothing about Amtgard or LARP.
 
 They need:
 - plain language,
@@ -65,18 +65,18 @@ They need:
 
 ### Secondary audience — Existing Amtgard player
 
-They already understand foam fighting but want to know what makes the Academy different.
+They already understand foam fighting but want to know what makes the Guild different.
 
 They need:
 - the training philosophy,
 - the progression system,
 - representative courses,
-- the Academy's standards,
+- the Guild's standards,
 - and pathways for deeper development.
 
 ### Tertiary audience — Parent, friend, organizer, or community partner
 
-They may not intend to fight but want to understand whether the Academy is responsible and legitimate.
+They may not intend to fight but want to understand whether the Guild is responsible and legitimate.
 
 They need:
 - safety-first language,
@@ -90,7 +90,7 @@ They need:
 
 ### Top navigation
 
-**Academy crest / Academy of Mercenary Arts**  
+**Guild crest / Obsidian Gate Guild of Mercenaries**  
 **Home | About | Training | Start Here**
 
 A visually prominent **Start Here** button remains available in the header on desktop and in the mobile menu.
@@ -102,7 +102,7 @@ The footer should contain contextual external links rather than creating extra t
 - Amtgard
 - Kingdom of Dragonspine
 - Obsidian Gate / local official information
-- Academy YouTube
+- Guild YouTube
 - Facebook
 - Instagram
 - TikTok
@@ -119,14 +119,14 @@ Do not clutter the primary navigation with Resources, News, Blog, Gallery, Membe
 
 ## Goal
 
-Create excitement, explain the Academy in ordinary language, demonstrate that the program has depth, and move visitors toward **Start Here**.
+Create excitement, explain the Guild in ordinary language, demonstrate that the program has depth, and move visitors toward **Start Here**.
 
 ## Wireframe
 
 ### A. Header
 
-- Crest / compact Academy mark
-- Academy of Mercenary Arts
+- Crest / compact Guild mark
+- Obsidian Gate Guild of Mercenaries
 - Home
 - About
 - Training
@@ -148,10 +148,10 @@ AMTGARD FOAM-FIGHTING TRAINING
 # Learn to Fight. Learn to Think. Learn to Lead.
 
 **Supporting copy:**  
-The Academy of Mercenary Arts is an Amtgard foam-fighting training program for people who want to become safer, smarter, more capable fighters—and better teammates, teachers, and leaders.
+The Obsidian Gate Guild of Mercenaries is an Amtgard foam-fighting training program for people who want to become safer, smarter, more capable fighters—and better teammates, teachers, and leaders.
 
-**Academy motto:**  
-**Developing Fighters. Building Warlords.**
+**Guild motto:**  
+**Learn Together. Play Better.**
 
 **Primary CTA:**  
 **Start Here**
@@ -169,13 +169,13 @@ Design note: The newcomer explanation must visually precede or accompany the mot
 
 ---
 
-### C. What Is the Academy?
+### C. What Is the Guild?
 
 **Heading:**  
 ## Training With Purpose
 
 **Draft copy:**  
-Foam fighting becomes much more rewarding when practice has direction. The Academy turns experience into a repeatable training path: learn a skill, drill it safely, test it under pressure, reflect, and return stronger.
+Foam fighting becomes much more rewarding when practice has direction. The Guild turns experience into a repeatable training path: learn a skill, drill it safely, test it under pressure, reflect, and return stronger.
 
 Three feature cards:
 
@@ -253,20 +253,20 @@ Five compact traits:
 
 Draft copy:
 
-The Academy does not expect beginners to arrive skilled. We expect people to learn with honesty, control, patience, and respect for the field.
+The Guild does not expect beginners to arrive skilled. We expect people to learn with honesty, control, patience, and respect for the field.
 
 This section should feel aspirational rather than disciplinary.
 
 ---
 
-### G. Academy / Amtgard Relationship
+### G. Guild / Amtgard Relationship
 
 **Heading:**  
 ## Part of the Game. Not Above the Game.
 
 Draft copy:
 
-The Academy is a training program within the Amtgard community. It teaches skills, habits, and field literacy, but official game rules and field authority remain with the current Amtgard Rules of Play and the appropriate reeves, weapon checkers, officers, and event staff.
+The Guild is a training program within the Amtgard community. It teaches skills, habits, and field literacy, but official game rules and field authority remain with the current Amtgard Rules of Play and the appropriate reeves, weapon checkers, officers, and event staff.
 
 Links:
 - What is Amtgard?
@@ -292,7 +292,7 @@ Bring curiosity, respect for the field, and a willingness to learn. We will show
 **Start Your First Day**
 
 **Secondary CTA:**  
-**Meet the Academy**
+**Meet the Guild**
 
 ---
 
@@ -300,7 +300,7 @@ Bring curiosity, respect for the field, and a willingness to learn. We will show
 
 ## Goal
 
-Explain why the Academy exists, what it values, how people participate, and where its authority begins and ends.
+Explain why the Guild exists, what it values, how people participate, and where its authority begins and ends.
 
 ## Wireframe
 
@@ -310,11 +310,11 @@ Explain why the Academy exists, what it values, how people participate, and wher
 # Better Fighters. Better Teammates. Future Leaders.
 
 **Intro:**  
-The Academy exists to make learning intentional: preserve useful knowledge, help fighters improve faster and more safely, and create people capable of passing what they learn to the next generation.
+The Guild exists to make learning intentional: preserve useful knowledge, help fighters improve faster and more safely, and create people capable of passing what they learn to the next generation.
 
 ---
 
-### B. Why the Academy Exists
+### B. Why the Guild Exists
 
 Use 4–5 short points:
 
@@ -324,11 +324,11 @@ Use 4–5 short points:
 - Preserve useful knowledge and pass it forward.
 - Build future leaders rather than permanent dependents.
 
-This section should use Academy language but remain readable by newcomers.
+This section should use Guild language but remain readable by newcomers.
 
 ---
 
-### C. The Academy Standard
+### C. The Guild Standard
 
 **Heading:**  
 ## What We Value on the Field
@@ -352,10 +352,10 @@ Optional pull quote:
 Two-column layout.
 
 **Cadets**  
-Students of the Academy. Beginners are not expected to be excellent; they are expected to be safe, honest, teachable, and willing to practice.
+Students of the Guild. Beginners are not expected to be excellent; they are expected to be safe, honest, teachable, and willing to practice.
 
 **Preceptors**  
-Academy instructors and field teachers. Their job is not to demonstrate superiority, but to make learning possible, give useful feedback, protect enthusiasm, and model the standard they teach.
+Guild instructors and field teachers. Their job is not to demonstrate superiority, but to make learning possible, give useful feedback, protect enthusiasm, and model the standard they teach.
 
 Do not turn this into a staff directory in v1.
 
@@ -368,17 +368,17 @@ Present as a strong parchment/engraved quote panel:
 > I do not seek glory for myself, but growth for my fighters.  
 > I do not create followers, but future leaders.  
 > I do not teach only for today, but for the battles tomorrow.  
-> I forge skill. I build character. I raise Warlords.
+> I forge skill. I build character. I help others learn.
 
 This is one of the strongest identity elements on the site and deserves visual prominence.
 
 ---
 
-### F. Academy and Official Authority
+### F. Guild and Official Authority
 
 Clearly state:
 
-- The Academy teaches.
+- The Guild teaches.
 - Amtgard's current Rules of Play governs game rules.
 - Dragonspine Corpora governs applicable Kingdom structure.
 - Local/Kingdom officers and field officials retain their proper authority.
@@ -399,7 +399,7 @@ CTA: **Explore Training**
 
 ## Goal
 
-Show that the Academy has a real progression without overwhelming visitors with the master catalogue.
+Show that the Guild has a real progression without overwhelming visitors with the master catalogue.
 
 ## Wireframe
 
@@ -409,7 +409,7 @@ Show that the Academy has a real progression without overwhelming visitors with 
 # A Path, Not a Pile of Techniques.
 
 **Intro:**  
-Academy training builds from safety and movement into weapon skill, decision-making, teamwork, and independent growth. Each stage gives the next one something solid to stand on.
+Guild training builds from safety and movement into weapon skill, decision-making, teamwork, and independent growth. Each stage gives the next one something solid to stand on.
 
 ---
 
@@ -501,7 +501,7 @@ Each card gets 1–2 sentences only. No complete lesson text.
 
 ### D. How a Lesson Works
 
-Display the typical Academy loop:
+Display the typical Guild loop:
 
 **Explain → Demonstrate → Drill → Observe → Correct → Test → Review**
 
@@ -520,7 +520,7 @@ Secondary track section.
 
 Draft copy:
 
-The Academy also teaches Dragonspine civic literacy: how the Kingdom, parks, officers, public meetings, service roles, events, awards, and long-term paths fit together. The goal is not to create rules lawyers. It is to help members participate responsibly and know where to find the proper answer.
+The Guild also teaches Dragonspine civic literacy: how the Kingdom, parks, officers, public meetings, service roles, events, awards, and long-term paths fit together. The goal is not to create rules lawyers. It is to help members participate responsibly and know where to find the proper answer.
 
 Show the five broad tiers only:
 - Kingdom Foundations
@@ -568,7 +568,7 @@ Primary CTA should lead to the current verified contact / attendance channel.
 
 ---
 
-### B. Is the Academy for Me?
+### B. Is the Guild for Me?
 
 Use simple yes-oriented cases:
 
@@ -605,7 +605,7 @@ Recommended sequence:
 6. **Review**  
    Leave with one thing learned and one thing to practice next.
 
-Do not promise every first visit will follow the identical schedule; present this as the expected Academy experience.
+Do not promise every first visit will follow the identical schedule; present this as the expected Guild experience.
 
 ---
 
@@ -655,7 +655,7 @@ Required before launch:
 **Maintenance rule:**  
 If schedule information changes often, prefer linking to the current official calendar/social source rather than duplicating stale event listings across the site.
 
-Do **not** put an Academy launch date on the site.
+Do **not** put a Guild launch date on the site.
 
 ---
 
@@ -670,7 +670,7 @@ No. Training should meet the fighter where they are.
 Answer only after current loaner policy is confirmed.
 
 **Is this the same as Amtgard?**  
-The Academy is an Amtgard-focused training program; Amtgard and its proper officials remain the authority for the game.
+The Guild is an Amtgard-focused training program; Amtgard and its proper officials remain the authority for the game.
 
 **Do I have to be competitive?**  
 No. Structured training can serve recreation, battlegame skill, tournament goals, teamwork, or long-term mastery.
@@ -689,7 +689,7 @@ Link to current official local/Dragonspine requirements rather than paraphrasing
 ## Come Learn the First Gate.
 
 **Primary CTA:**  
-**Contact / Attend the Academy**
+**Contact / Attend the Guild**
 
 **Secondary links:**  
 Follow on YouTube • Facebook • Instagram • TikTok
@@ -700,7 +700,7 @@ Follow on YouTube • Facebook • Instagram • TikTok
 
 Recommended footer structure:
 
-### Academy
+### Guild
 - About
 - Training
 - Start Here
@@ -719,7 +719,7 @@ Recommended footer structure:
 
 ### Authority note
 
-> The Academy teaches skill, safety, discipline, and learning habits. It does not replace the current Amtgard Rules of Play or proper field and organizational authorities.
+> The Guild teaches skill, safety, discipline, and learning habits. It does not replace the current Amtgard Rules of Play or proper field and organizational authorities.
 
 Keep this compact.
 
@@ -749,7 +749,7 @@ Desired qualities:
 
 ## Suggested palette
 
-Use the existing Academy character:
+Use the existing Guild character:
 
 - **Obsidian / charcoal** — primary dark background
 - **Warm parchment / bone** — reading surfaces and light text
@@ -786,9 +786,9 @@ Avoid large textured backgrounds behind body copy.
 
 ## Priority order
 
-1. Real Academy training photographs.
+1. Real Guild training photographs.
 2. Real Amtgard field photographs with permission.
-3. Academy heraldry / crest.
+3. Guild heraldry / crest.
 4. Purpose-built simple illustrations or icons.
 5. Stock imagery only as a temporary development placeholder.
 
@@ -852,7 +852,7 @@ Target WCAG 2.2 AA practices for v1:
 - links that explain their destination,
 - no hover-only content.
 
-Accessibility is part of the Academy's welcoming standard, not a post-launch patch.
+Accessibility is part of the Guild's welcoming standard, not a post-launch patch.
 
 ---
 
@@ -862,16 +862,16 @@ Accessibility is part of the Academy's welcoming standard, not a post-launch pat
 
 Every page should follow these rules:
 
-1. **Plain language first; Academy language second.**
+1. **Plain language first; Guild language second.**
 2. Explain Amtgard terms before relying on them.
-3. Never imply the Academy has official rules authority it does not possess.
+3. Never imply the Guild has official rules authority it does not possess.
 4. Link to official current sources for rules, waivers, membership, and field authority.
 5. Never publish a hard launch date unless one truly exists.
 6. Do not publish internal planning notes, private member information, AARs, drafts, or operations.
 7. Do not promise loaner gear, instructors, classes, dates, or attendance conditions unless verified.
 8. Prefer evergreen copy over material that requires weekly edits.
-9. Social media tells people **what is happening now**; this website tells people **what the Academy is and how to join it**.
-10. Command Hall tells members **how to run the Academy**; the recruitment site tells the public **why they might want to enter it**.
+9. Social media tells people **what is happening now**; this website tells people **what the Guild is and how to join it**.
+10. Command Hall tells members **how to run the Guild**; the recruitment site tells the public **why they might want to enter it**.
 
 ---
 
@@ -880,24 +880,24 @@ Every page should follow these rules:
 Recommended initial metadata:
 
 **Site title:**  
-Academy of Mercenary Arts | Amtgard Foam-Fighting Training
+Obsidian Gate Guild of Mercenaries | Amtgard Foam-Fighting Training
 
 **Default meta description:**  
-Learn safe, intentional Amtgard foam fighting through structured training in fundamentals, weapon arts, combat intelligence, teamwork, and leadership at the Academy of Mercenary Arts.
+Learn safe, intentional Amtgard foam fighting through structured training in fundamentals, weapon arts, combat intelligence, teamwork, and leadership at the Obsidian Gate Guild of Mercenaries.
 
 ### Page titles
 
-- Home — Academy of Mercenary Arts | Amtgard Foam-Fighting Training
-- About — About the Academy | Academy of Mercenary Arts
-- Training — Training Path | Academy of Mercenary Arts
-- Start Here — Start Training | Academy of Mercenary Arts
+- Home — Obsidian Gate Guild of Mercenaries | Amtgard Foam-Fighting Training
+- About — About the Guild | Obsidian Gate Guild of Mercenaries
+- Training — Training Path | Obsidian Gate Guild of Mercenaries
+- Start Here — Start Training | Obsidian Gate Guild of Mercenaries
 
 ### Social sharing
 
-Create one Academy Open Graph image:
+Create one Guild Open Graph image:
 - crest,
-- Academy of Mercenary Arts,
-- “Developing Fighters. Building Warlords.”
+- Obsidian Gate Guild of Mercenaries,
+- “Learn Together. Play Better.”
 - clear enough to read in a social preview.
 
 ---
@@ -952,17 +952,17 @@ JavaScript should initially be limited to progressive enhancement such as mobile
 
 ## Required
 
-- [ ] Final public Academy crest / logo file
+- [ ] Final public Guild crest / logo file
 - [ ] Compact favicon version
 - [ ] 4–7 approved training photographs
 - [ ] Verified official Amtgard link
 - [ ] Verified current Rules of Play link
 - [ ] Verified Dragonspine link
 - [ ] Verified Obsidian Gate/local information link
-- [ ] Academy YouTube link
-- [ ] Academy Facebook link
-- [ ] Academy Instagram link
-- [ ] Academy TikTok link
+- [ ] Guild YouTube link
+- [ ] Guild Facebook link
+- [ ] Guild Instagram link
+- [ ] Guild TikTok link
 - [ ] Public contact method
 - [ ] Current attendance/location instructions
 - [ ] Current waiver/age-information source
@@ -970,7 +970,7 @@ JavaScript should initially be limited to progressive enhancement such as mobile
 
 ## Nice to have
 
-- [ ] Short Academy training video
+- [ ] Short Guild training video
 - [ ] Graduate Trial photograph
 - [ ] Preceptor teaching photograph
 - [ ] Group photograph
@@ -980,12 +980,12 @@ JavaScript should initially be limited to progressive enhancement such as mobile
 
 # 17. V1 ACCEPTANCE TEST
 
-Before calling the site ready, hand the homepage to someone unfamiliar with the Academy and ask them—without coaching—to answer:
+Before calling the site ready, hand the homepage to someone unfamiliar with the Guild and ask them—without coaching—to answer:
 
-1. What is the Academy?
+1. What is the Guild?
 2. Is this real foam fighting or a video game?
 3. What do people learn?
-4. Does the Academy replace Amtgard's rules or officials?
+4. Does the Guild replace Amtgard's rules or officials?
 5. Where would you click if you wanted to try it?
 
 A successful newcomer should answer all five after a short browse.
@@ -1022,10 +1022,10 @@ Build the entire public narrative and establish the visual system.
 Complete the conversion path before investing in deeper content.
 
 ### Phase 4 — About + Training
-Add Academy identity, curriculum overview, and representative courses.
+Add Guild identity, curriculum overview, and representative courses.
 
 ### Phase 5 — Real Media Pass
-Replace temporary imagery with approved Academy photographs and optimize them.
+Replace temporary imagery with approved Guild photographs and optimize them.
 
 ### Phase 6 — QA
 Accessibility, mobile, copy, links, performance, and newcomer comprehension test.
@@ -1037,10 +1037,11 @@ Deploy only after the current attendance/contact links are verified.
 
 # 19. V1 DESIGN CONTRACT
 
-If a proposed feature does not help a newcomer understand the Academy, trust it, or take the next step, it probably does not belong in v1.
+If a proposed feature does not help a newcomer understand the Guild, trust it, or take the next step, it probably does not belong in v1.
 
-The site should feel like **standing at the Academy gate and being invited inside**.
+The site should feel like **standing at the Guild gate and being invited inside**.
 
 The Command Hall is for those already doing the work.
 
 This site is for the person who has just discovered that the work exists.
+

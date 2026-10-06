@@ -1,8 +1,8 @@
-# Academy of Mercenary Arts — Recruitment Site
+# Obsidian Gate Guild of Mercenaries — Recruitment Site
 
-Public recruitment and general-information website for the Academy of Mercenary Arts.
+Public recruitment and general-information website for the Obsidian Gate Guild of Mercenaries.
 
-> Developing Fighters. Building Warlords.
+> Learn Together. Play Better.
 
 ## Project status
 
@@ -10,8 +10,8 @@ Public recruitment and general-information website for the Academy of Mercenary 
 
 The full four-page recruitment site is built:
 
-1. **Home** — public explanation, Academy identity, Fighter Track overview, training method, values, and primary recruitment calls to action.
-2. **About** — purpose, Academy Standard, Cadets and Preceptors, Preceptor's Creed, and authority boundaries.
+1. **Home** — public explanation, Guild identity, Fighter Track overview, training method, values, and primary recruitment calls to action.
+2. **About** — purpose, Guild Standard, Cadets and Preceptors, Preceptor's Creed, and authority boundaries.
 3. **Training** — F100–F500 Fighter Track, representative courses, lesson method, Dragonspine Civic Arms, and Graduate Trial gates.
 4. **Start Here** — newcomer fit, first-visit flow, what to bring, safety, local Obsidian Gate connection, and FAQ.
 
@@ -25,9 +25,9 @@ The site is intentionally:
 - static and fast,
 - usable without JavaScript except for enhanced mobile navigation,
 - medieval in identity without becoming a game HUD,
-- and clear about the Academy's relationship to Amtgard and proper field authority.
+- and clear about the Guild's relationship to Amtgard and proper field authority.
 
-The current CSS-built shield/book/sword treatment and favicon are development identity marks. Replace them with final approved Academy heraldry when the production crest asset is ready.
+The current CSS-built shield/book/sword treatment and favicon are development identity marks. Replace them with final approved Guild heraldry when the production crest asset is ready.
 
 ## Local development
 
@@ -73,10 +73,11 @@ https://blimblam666.github.io/AMARecruitmentSite/
 
 ## Pre-launch media upgrades
 
-The site can publish now, but the strongest later visual upgrade will be replacing the CSS hero emblem with the final Academy crest and adding approved real Academy/Amtgard training photographs.
+The site can publish now, but the strongest later visual upgrade will be replacing the CSS hero emblem with the final Guild crest and adding approved real Academy/Amtgard training photographs.
 
 Do not use unverified social/contact links or stale weekly schedules merely to fill space.
 
 ## Authority standard
 
-The Academy teaches skill, safety, discipline, and learning habits. It does **not** replace Amtgard's current Rules of Play, Dragonspine Corpora, local reeves, weapon checkers, champions, officers, event staff, or other proper authorities.
+The Guild teaches skill, safety, discipline, and learning habits. It does **not** replace Amtgard's current Rules of Play, Dragonspine Corpora, local reeves, weapon checkers, champions, officers, event staff, or other proper authorities.
+
